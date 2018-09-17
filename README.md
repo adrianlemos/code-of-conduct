@@ -1,6 +1,6 @@
 # Código de Conduta
 
-Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades de TI Brasileiras.
+Esse guia traz sugestões e orientações de conduta para uma convivência saudável nas comunidades Volt Ampere.
 
 ## 1. Política anti-harassment
 
@@ -30,7 +30,7 @@ Lembre-se que estamos em uma rede mundial, dar bom dia, boa tarde e boa noite n�
 
 Não precisa pedir permissão para perguntar, muito menos perguntar se alguém conhece determinado assunto no grupo antes de informar sua dúvida. Apenas faça sua pergunta e aguarde uma interação.
 
-Quando for responder alguma pergunta, clique nela e escolha a opção responder — ou inicie um thread no slack, pois somente assim os membros do grupo saberão que sua resposta está associada aquela determinada questão.
+Quando for responder alguma pergunta, clique nela e escolha a opção responder, pois somente assim os membros do grupo saberão que sua resposta está associada aquela determinada questão.
 
 Lembre-se que os grupos não são canais de suporte oficiais das tecnologias relacionadas, os grupos são formados por pessoas que assim como você estão ali pra trocar experiências. Não há qualquer acordo de tempo de resposta para as dúvidas no grupo, ou seja, caso ninguém responda, é possível que elas não saibam a resposta ou talvez não tiveram tempo disponível para responder.
 
@@ -38,15 +38,11 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 ### 4.1 Tema dos grupos
 
-- Sempre que possível mantenha o tema central do grupo nas conversas;
-- Evite temas off-topics como games, futebol, credo e política;
-- Chame seu colega para um grupo off-topic ou em PVT para discutir esses temas se desejar.
+- Não existe assunto off topic, pode ser conversado sobre tudo só mantenha o respeito.
 
 ### 4.2 Divulgar vagas de emprego
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
-- Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
-- Se preferir, existem canais específicos para este tipo de atividade, procure na lista de canais.
 
 ### 4.3 Divulgar canais
 
@@ -145,14 +141,6 @@ Grupos e canais do Telegram com URL Pública
 54. [https://t.me/CentOSLATAM](https://t.me/CentOSLATAM)
 55. [https://t.me/G1_Globo_Oficial](https://t.me/G1_Globo_Oficial)
 
-### 5.2 Slack
-
-01. infraascode.slack.com
-02. devopsdaysbrasilia.slack.com
-
-### 5.3 MatterMost
-
-01. mattermost.instruct.com.br
 
 ## 6. Como assinar?
 
@@ -173,7 +161,7 @@ Use as URls abaixo para pinar o código no topo do seu canal.
 - [https://t.me/codigoconduta](https://t.me/codigoconduta)
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
 - [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
-- [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
+- [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-duta-do-grupo)
 
 ## 10. Autor e mantenedor do projeto
 
